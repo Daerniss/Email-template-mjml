@@ -1,0 +1,309 @@
+<!-- <mjml>
+  <mj-head>
+    <mj-breakpoint width="320px" />
+  </mj-head>
+  <mj-body>
+
+    <!-- Company Header -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" color="#626262">
+          My Company
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Image Header -->
+    <mj-section 
+      background-color="#f0f0f0"
+      background-url="http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
+      background-size="cover"
+      background-repeat="no-repeat">
+      <mj-column width="600px">
+
+        <mj-text align="center"
+        color="#fff"
+        font-size="40px"
+        font-family="Helvetica Neue">
+          Slogan here
+        </mj-text>
+
+        <mj-button background-color="#F63A4D" href="#">
+          Promotion
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section background-color="#fafafa">
+        <mj-column width="400px">
+
+          <mj-text font-style="italic"
+                   font-size="20px"
+                   font-family="Helvetica Neue"
+                   color="#626262">My Awesome Text</mj-text>
+
+            <mj-text color="#525252">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+          </mj-text>
+
+            <mj-button background-color="#F45E43"
+                     href="#">Learn more</mj-button>
+
+    </mj-column>
+  </mj-section>
+
+    <!-- 2 columns section -->
+    <!-- Side image -->
+  <mj-section background-color="white">
+
+    <!-- Left image -->
+    <mj-column>
+      <mj-image width="200px"
+                src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg" />
+    </mj-column>
+
+    <!-- right paragraph -->
+    <mj-column>
+      <mj-text font-style="italic"
+              font-size="20px"
+              font-family="Helvetica Neue"
+              color="#626262">
+          Find amazing places
+        </mj-text>
+
+        <mj-text color="#525252">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.</mj-text>
+
+    </mj-column>
+  </mj-section>
+
+    <!-- Icons -->
+    <mj-section background-color="#fbfbfb">
+      <mj-column>
+        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x0l.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x01.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src="http://191n.mj.am/img/191n/3s/x0s.png" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Social icons -->
+    <mj-section background-color="#e7e7e7">
+      <mj-column>
+        <mj-social>
+          <mj-social-element name="facebook" />
+        </mj-social>
+      </mj-column>
+    </mj-section>>
+
+  </mj-body>
+<!-- </mjml> --> 
+
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="400px" />
+    <mj-attributes>
+      <mj-section padding="0" />
+        
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="750px" align="center">
+  
+    <mj-section background-color="#fff">
+      <mj-column >
+        <mj-image padding="67px 40px 48px" width="159px" src="img/logo.png" alt="" align="left" />
+      </mj-column>
+    </mj-section >
+
+    <mj-section background-color="#fff">
+      <mj-column >
+        <mj-image padding="0 40px 36px" src="img/img-hero.jpg" alt="" align="left" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column >
+        <mj-text padding="0 40px 50px" color="#354052" font-size="30px" font-weight="500"line-height="40px">
+          Hi there,  we are please to have you as one of our first users.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column >
+        <mj-text padding="0 40px 45px" color="#354052" font-size="26px" font-weight="400" line-height="35px">
+         We seriously couldn’t happier that you’re interested in what believe in. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column >
+        <mj-text padding="0 40px 43px" color="#354052" font-size="26px" font-weight="400" line-height="35px">
+         We can’t wait to see you create, and I’m sure you’re going to make someone smile like crazy!  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image  
+        fluid-on-mobile="true" 
+        src="img/img-1.jpg" 
+        alt="" />
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="20px" 
+        font-weight="600">
+          Heartsy
+        </mj-text>
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="18px" 
+        font-weight="400" 
+        line-height="25px">
+          Filter quickly by using our heartsy tool
+        </mj-text>
+      </mj-column>
+
+      <mj-column >
+        <mj-image  
+        fluid-on-mobile="true" 
+        src="img/img-2.jpg" 
+        alt="" />
+
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="20px" 
+        font-weight="600">
+          PawPaw
+        </mj-text>
+
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="18px" 
+        font-weight="400" 
+        line-height="25px">
+          Book online with PawPaw
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="50px" background-color="#fff">
+      <mj-column>
+        <mj-image  
+        fluid-on-mobile="true" 
+        src="img/img-3.jpg" 
+        alt="" />
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="20px" 
+        font-weight="600">
+          Foodeey
+        </mj-text>
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="18px" 
+        font-weight="400" 
+        line-height="25px">
+          Foodeey is only for you
+        </mj-text>
+      </mj-column>
+
+      <mj-column >
+        <mj-image  
+        fluid-on-mobile="true" 
+        src="img/img-4.jpg" 
+        alt="" />
+
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="20px" 
+        font-weight="600">
+          Delivery
+        </mj-text>
+
+        <mj-text 
+        color="#354052" 
+        align="center" 
+        font-size="18px" 
+        font-weight="400" 
+        line-height="25px">
+          We deliver, anywhere, everywhere
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-button href="#" width="100%" padding-bottom="40px" font-size="20px" inner-padding="20px 70px" background-color="#007ac2" container-background-color="#fff">
+          Start Creating Awwwesome Stuff
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#f5f5f5">
+      <mj-column> 
+        <mj-text
+          color="#354052"
+          font-size="30px"
+          font-weight="700"
+          align="center"
+          >
+          We’d love to hear from you!
+        </mj-text>
+
+        <mj-text
+          color="#354052"
+          font-size="22px"
+          font-weight="400"
+          align="center"
+          padding-bottom="40px"
+          >
+          Help us improve by sharing your feedback in this short 
+          <a href="#" style="text-decoration: underline; color: #354052; cursor: pointer">
+            survey
+          </a>
+        </mj-text>
+
+        <mj-social padding-bottom="25px" icon-size="25px" mode="horizontal">
+          <mj-social-element background-color="#000" name="facebook" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element background-color="#000" name="twitter" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element background-color="#000" name="instagram" href="https://mjml.io/">
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text 
+        font-size="16px"
+        align="center"
+        padding="0 0 10px"
+        >
+          Copyright © 2018 <strong>ella.</strong> All Rights Reserved. 
+        </mj-text>
+        <mj-text 
+        font-size="16px"
+        font-weight="600"
+        align="center"
+        padding="0"
+        >
+          help@ella.com | 1(800)123-90-87
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
